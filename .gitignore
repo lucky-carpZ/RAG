@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit/其他缓存
+.cache/
+*.log
+
+# 本地数据
+Agent/chat_history.json
+Agent/faiss_index/
+venv/
+.venv/
+
+# 配置（如有敏感信息，建议用.env管理）
+# Agent/config/settings.py
+
+# macOS
+.DS_Store
+
+# 大文件
+*.pdf 
