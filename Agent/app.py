@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2025/05/18 10:00:00
-# @Author  : 唐国梁Tommy (B站:唐国梁Tommy)
-# @File    : app.py
-# @Description: 主应用文件
+##程序主入口
 
 import streamlit as st
 from datetime import datetime
